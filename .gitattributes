@@ -2,4 +2,4 @@
 * text=auto
 try/ filter=lfs diff=lfs merge=lfs -text
 3003/Assets/Firebase filter=lfs diff=lfs merge=lfs -text
-'*.so' filter=lfs diff=lfs merge=lfs -text
+*.so filter=lfs diff=lfs merge=lfs -text
