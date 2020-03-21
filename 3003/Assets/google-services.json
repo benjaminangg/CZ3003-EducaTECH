@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "411460413846",
+    "firebase_url": "https://cz3003-aef98.firebaseio.com",
+    "project_id": "cz3003-aef98",
+    "storage_bucket": "cz3003-aef98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411460413846:android:176b2ac5ade3575f5f15b7",
+        "android_client_info": {
+          "package_name": "com.cz3003.math"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411460413846-v8jp5sgdrp2ikis0lg58qpca5k771nqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2tdkitcK0iL-C3QWqTQ613wqWoKDOdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411460413846-v8jp5sgdrp2ikis0lg58qpca5k771nqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411460413846:android:49db8192d1cb06325f15b7",
+        "android_client_info": {
+          "package_name": "com.educatech.math"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411460413846-v8jp5sgdrp2ikis0lg58qpca5k771nqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG2tdkitcK0iL-C3QWqTQ613wqWoKDOdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411460413846-v8jp5sgdrp2ikis0lg58qpca5k771nqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
